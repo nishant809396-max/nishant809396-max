@@ -1,25 +1,24 @@
 <!--
   NISHANT — ENGINEER EDITORIAL GITHUB PROFILE
-  Instructions:
-  1. Create a public repository on GitHub named exactly the same as your GitHub username.
-  2. Put this README.md and the /assets folder in that repository.
-  3. Replace "YOUR_GITHUB_USERNAME" with your actual GitHub username throughout this file.
-  4. Customize your social links, project names, and bio details.
+  Location: Panalth, Himachal Pradesh, India
+  GitHub: nishant809396-max
 -->
 
 <div align="center">
 
-<img src="./assets/editorial-header.png" width="100%" alt="Nishant — Full-Stack Developer & Software Craftsman"/>
+<img src="./editorial-header.png" width="100%" alt="Nishant — Full-Stack Developer • Backend Architect • BCA Student"/>
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/nishant809396-max">
+  <img src="https://img.shields.io/badge/GitHub-nishant809396--max-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Full--Stack-Developer-B33A2B?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Computer--Science-Student-284B63?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Architect-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BCA-Student-284B63?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 <br/><br/>
 
@@ -40,12 +39,13 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="100%" valign="top">
 
 <h3>Nishant</h3>
 
 <p>
-I am a <strong>Full-Stack Developer</strong> and <strong>Software Engineer</strong>.
+I am a <strong>Full-Stack Developer</strong>, <strong>Backend Architect</strong>, and <strong>BCA student</strong> from
+<strong>Panalth, Himachal Pradesh, India</strong>.
 </p>
 
 <p>
@@ -56,8 +56,8 @@ clean architecture, thoughtful user experience, and continuous learning.
 
 <pre>
 <code>const nishant = {
-  role: "Full-Stack Developer",
-  location: "India",
+  role: "Full-Stack Developer & Backend Architect",
+  location: "Panalth, Himachal Pradesh, India",
   focus: [
     "Backend Engineering",
     "System Design",
@@ -67,16 +67,6 @@ clean architecture, thoughtful user experience, and continuous learning.
   mindset: "Think. Plan. Execute. Improve."
 };</code>
 </pre>
-
-</td>
-
-<td width="42%" valign="top" align="center">
-
-<img
-  src="./assets/engineer-note-card.svg"
-  width="100%"
-  alt="Engineer specification note"
-/>
 
 </td>
 
@@ -113,12 +103,12 @@ clean architecture, thoughtful user experience, and continuous learning.
 
 <table>
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<img src="./assets/chess-strategy.svg" width="92%" alt="Chess strategy and engineering thinking"/>
+<img src="./chess-strategy.png" width="92%" alt="Chess strategy and engineering thinking"/>
 
 </td>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
 ### Engineering and chess share the same principles
 
@@ -128,7 +118,7 @@ clean architecture, thoughtful user experience, and continuous learning.
 - **Build a strong foundation before attacking.**
 - **Improve the system after every mistake.**
 
-> **Chess taught me patience. Code taught me precision. Persistence taught me perspective.**
+> **Chess taught me patience. Code taught me precision. The mountains taught me perspective.**
 
 </td>
 </tr>
@@ -156,7 +146,7 @@ An opinionated backend service inspired by structured clean architecture while p
 - Route authentication & security middleware
 - Comprehensive logging and diagnostics
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nishant809396-max">
   <img src="https://img.shields.io/badge/View_Source-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -177,7 +167,7 @@ A terminal-based development system that coordinates planner, manager, and worke
 - Persistent workspace memory
 - Automated code generation & verification
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nishant809396-max">
   <img src="https://img.shields.io/badge/View_Source-B33A2B?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </a>
 
@@ -201,7 +191,7 @@ A production-ready web application featuring robust user authentication, real-ti
 - Responsive, accessible user interface
 - Dockerized setup ready for cloud deployment
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nishant809396-max">
   <img src="https://img.shields.io/badge/View_Source-284B63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -226,7 +216,7 @@ A provider-independent AI assistant architecture designed for seamless context m
 - Clean decoupled API abstraction layer
 - Extensible plugin system
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nishant809396-max">
   <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=openai&logoColor=white"/>
 </a>
 
@@ -253,13 +243,13 @@ A provider-independent AI assistant architecture designed for seamless context m
 <div align="center">
 
 <img
-  src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&icon_color=B33A2B"
+  src="https://github-readme-stats-fast.vercel.app/api?username=nishant809396-max&show_icons=true&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&icon_color=B33A2B"
   width="48%"
   alt="Nishant's GitHub statistics"
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=F4F0E8&ring=B33A2B&fire=B33A2B&currStreakLabel=284B63&sideLabels=333333&dates=666666&currStreakNum=111111&sideNums=111111"
+  src="https://streak-stats.demolab.com?user=nishant809396-max&hide_border=true&background=F4F0E8&ring=B33A2B&fire=B33A2B&currStreakLabel=284B63&sideLabels=333333&dates=666666&currStreakNum=111111&sideNums=111111"
   width="48%"
   alt="GitHub streak"
 />
@@ -267,7 +257,7 @@ A provider-independent AI assistant architecture designed for seamless context m
 <br/><br/>
 
 <img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&langs_count=10"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nishant809396-max&layout=compact&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&langs_count=10"
   width="44%"
   alt="Most used languages"
 />
@@ -275,7 +265,7 @@ A provider-independent AI assistant architecture designed for seamless context m
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=F4F0E8&color=333333&line=B33A2B&point=284B63&area=true&area_color=D8C7B2&hide_border=true&custom_title=CONTRIBUTION%20LOG"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishant809396-max&bg_color=F4F0E8&color=333333&line=B33A2B&point=284B63&area=true&area_color=D8C7B2&hide_border=true&custom_title=CONTRIBUTION%20LOG"
   width="96%"
   alt="GitHub activity graph"
 />
@@ -304,9 +294,9 @@ AI agents, scalable backend design, systems programming, and developer productiv
 </td>
 <td width="33%" align="center">
 
-### 🏔️ Exploration & Focus
+### 🏔️ Mountains & Clarity
 
-Outdoor adventures, finding perspective away from screens, and returning with fresh clarity.
+Exploring Himachal Pradesh, finding clarity away from screens, and returning with fresh perspective.
 
 </td>
 </tr>
@@ -326,18 +316,16 @@ Outdoor adventures, finding perspective away from screens, and returning with fr
   <img src="https://img.shields.io/badge/LinkedIn-Connect-284B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nishant809396-max">
   <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VISITORS&color=B33A2B&style=flat-square" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=nishant809396-max&label=PROFILE%20VISITORS&color=B33A2B&style=flat-square" alt="Profile visitors"/>
 
 <br/><br/>
 
-<img src="./assets/editorial-footer.svg" width="100%" alt="Build. Learn. Improve. Repeat."/>
-
-<sub>Built with purpose — one thoughtful system at a time.</sub>
+<sub>Built from Panalth, Himachal Pradesh, India — one thoughtful system at a time.</sub>
 
 </div>
