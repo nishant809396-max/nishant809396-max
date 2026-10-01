@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Nishant GitHub Profile Banner" width="100%"/>
+<img src="./assets/profile-banner.png" alt="<img src="./assets/profile-banner.png" width="100%"/>"/>
 
 <br>
 
