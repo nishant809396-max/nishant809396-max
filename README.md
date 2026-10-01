@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="./assets/editorial-header.svg" width="100%" alt="Nishant — Full-Stack Developer & Software Craftsman"/>
+<img src="./assets/editorial-header.png" width="100%" alt="Nishant — Full-Stack Developer & Software Craftsman"/>
 
 <br/>
 
