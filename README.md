@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-<!--
-**nishant809396-max/nishant809396-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👑 NISHANT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `Creative • Curious • Always Learning`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=180&section=header&text=NISHANT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
+
+<!-- ===================== ABOUT ===================== -->
+
+## 👋 Hey, I'm Nishant
+
+I'm someone who enjoys **learning new things, building projects and exploring technology**.
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   👑 Nishant                                │
+│                                             │
+│   ⚡ Learning & Building                    │
+│   💻 Exploring Technology                   │
+│   🚀 Turning Ideas Into Projects            │
+│                                             │
+└─────────────────────────────────────────────┘
