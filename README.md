@@ -1,12 +1,12 @@
 <!--
   NISHANT — ENGINEER EDITORIAL GITHUB PROFILE
-  Location: Panalth, Himachal Pradesh, India
+  Location: Panalath, Himachal Pradesh, India
   GitHub: nishant809396-max
 -->
 
 <div align="center">
 
-<img src="./editorial-header.png" width="100%" alt="Nishant — Full-Stack Developer • Backend Architect • BCA Student"/>
+<img src="./editorial-header.png" width="100%" alt="Nishant — Full-Stack Developer"/>
 
 <br/>
 
@@ -15,8 +15,6 @@
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Full--Stack-Developer-B33A2B?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Backend-Architect-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/BCA-Student-284B63?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
@@ -39,13 +37,13 @@
 <table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="58%" valign="top">
 
 <h3>Nishant</h3>
 
 <p>
-I am a <strong>Full-Stack Developer</strong>, <strong>Backend Architect</strong>, and <strong>BCA student</strong> from
-<strong>Panalth, Himachal Pradesh, India</strong>.
+I am a <strong>Full-Stack Developer</strong> and <strong>BCA student</strong> from
+<strong>Panalath, Himachal Pradesh, India</strong>.
 </p>
 
 <p>
@@ -56,8 +54,8 @@ clean architecture, thoughtful user experience, and continuous learning.
 
 <pre>
 <code>const nishant = {
-  role: "Full-Stack Developer & Backend Architect",
-  location: "Panalth, Himachal Pradesh, India",
+  role: "Full-Stack Developer",
+  location: "Panalath, Himachal Pradesh, India",
   focus: [
     "Backend Engineering",
     "System Design",
@@ -67,6 +65,24 @@ clean architecture, thoughtful user experience, and continuous learning.
   mindset: "Think. Plan. Execute. Improve."
 };</code>
 </pre>
+
+</td>
+
+<td width="42%" valign="top" align="center">
+
+<img
+  src="./engineer-note-card.png"
+  width="100%"
+  alt="Engineer note"
+/>
+
+<br/>
+
+<img
+  src="./engineering-blueprint.png"
+  width="100%"
+  alt="Engineering blueprint"
+/>
 
 </td>
 
@@ -103,20 +119,20 @@ clean architecture, thoughtful user experience, and continuous learning.
 
 <table>
 <tr>
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
 <img src="./chess-strategy.png" width="92%" alt="Chess strategy and engineering thinking"/>
 
 </td>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
 ### Engineering and chess share the same principles
 
-- **Understand the complete position before acting.**
-- **Break complex problems into smaller moves.**
-- **Think about trade-offs and future consequences.**
-- **Build a strong foundation before attacking.**
-- **Improve the system after every mistake.**
+- Understand the complete position before acting.
+- Break complex problems into smaller moves.
+- Think about trade-offs and future consequences.
+- Build a strong foundation before attacking.
+- Improve the system after every mistake.
 
 > **Chess taught me patience. Code taught me precision. The mountains taught me perspective.**
 
@@ -132,43 +148,43 @@ clean architecture, thoughtful user experience, and continuous learning.
 <tr>
 <td width="50%" valign="top">
 
-### 01 — Core Backend Framework
+### 01 — NestGo
 
-**Modular High-Performance Backend Service**
+**Modular Go Backend Framework**
 
-An opinionated backend service inspired by structured clean architecture while preserving performance, maintainability, and type safety.
+An opinionated backend framework for Go inspired by structured enterprise architecture while preserving performance and type safety.
 
-`Go` `Node.js` `PostgreSQL` `JWT` `REST API`
+`Go` `Chi` `PostgreSQL` `JWT` `CLI`
 
 - Modular application structure
-- Dependency injection & clean boundaries
-- Database migrations & ORM integration
-- Route authentication & security middleware
-- Comprehensive logging and diagnostics
+- Dependency injection
+- Resource generation
+- Database migrations
+- Route and architecture diagnostics
 
 <a href="https://github.com/nishant809396-max">
-  <img src="https://img.shields.io/badge/View_Source-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_NestGo-111111?style=for-the-badge&logo=go&logoColor=00ADD8"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — Multi-Agent AI CLI
+### 02 — FORGE
 
-**Autonomous Developer Tooling System**
+**AI Multi-Agent CLI System**
 
-A terminal-based development system that coordinates planner, manager, and worker agents to turn ideas into structured implementations.
+A terminal-based development system that coordinates planner, manager, and worker agents to turn ideas into structured implementation.
 
-`TypeScript` `Node.js` `AI Providers` `Ollama` `CLI`
+`TypeScript` `Node.js` `Ollama` `OpenRouter` `CLI`
 
-- Multi-agent task planning & orchestration
-- Parallel execution workflows
-- Support for local and cloud models
-- Persistent workspace memory
-- Automated code generation & verification
+- Multi-agent planning
+- Parallel execution waves
+- Local and cloud models
+- Persistent project memory
+- Real source-file generation
 
 <a href="https://github.com/nishant809396-max">
-  <img src="https://img.shields.io/badge/View_Source-B33A2B?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_FORGE-B33A2B?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </a>
 
 </td>
@@ -177,44 +193,46 @@ A terminal-based development system that coordinates planner, manager, and worke
 <tr>
 <td width="50%" valign="top">
 
-### 03 — Full-Stack Web Platform
+### 03 — Zitter
 
-**Scalable Modern Web Application**
+**Full-Stack Social Platform**
 
-A production-ready web application featuring robust user authentication, real-time engagement, optimized asset storage, and intuitive UX.
+A scalable social-content application with authentication, media uploads, engagement features, feeds, and production-ready backend components.
 
 `Next.js` `React` `Express` `MongoDB` `Redis` `Docker`
 
-- Secure JWT authentication & session management
-- Cloud asset pipeline & fast delivery
-- High-concurrency Redis caching & rate limiting
-- Responsive, accessible user interface
-- Dockerized setup ready for cloud deployment
+- JWT authentication
+- Email verification
+- Infinite feed
+- Cloudinary uploads
+- Redis rate limiting
+- Responsive interface
 
 <a href="https://github.com/nishant809396-max">
   <img src="https://img.shields.io/badge/View_Source-284B63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Live_App-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — Unified AI Assistant
+### 04 — Multi-Platform AI Assistant
 
-**Multi-Provider Intelligent Workflow**
+**Unified AI Experience**
 
-A provider-independent AI assistant architecture designed for seamless context management, tool integration, and high reliability.
+A provider-independent assistant architecture designed for web, desktop, and command-line environments.
 
-`Next.js` `TypeScript` `REST APIs` `Vector DB`
+`Next.js` `TypeScript` `REST APIs` `AI Providers`
 
-- Seamless multi-model switching & fallback
-- Real-time streaming response engine
-- Persistent conversation history & search
-- Clean decoupled API abstraction layer
-- Extensible plugin system
+- Multi-provider integration
+- Model switching
+- Streaming responses
+- Conversation history
+- Cross-platform architecture
+- Reusable API layer
 
 <a href="https://github.com/nishant809396-max">
   <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -228,13 +246,15 @@ A provider-independent AI assistant architecture designed for seamless context m
 
 ## CURRENTLY BUILDING
 
+<img src="./currently-building-strip.png" width="100%" alt="Currently building and learning"/>
+
 | Area | Current direction |
 |---|---|
-| **Backend Engineering** | Microservices, REST & gRPC, Redis caching, structured logging |
-| **AI Systems** | Agentic workflows, RAG pipelines, multi-provider integrations |
-| **System Design** | Distributed queues, caching strategies, database optimization |
-| **Cloud & DevOps** | Docker containers, CI/CD automation, cloud deployment |
-| **Data & Storage** | PostgreSQL, MongoDB, Redis, Vector Databases |
+| **NestGo** | WebSockets, OpenAPI generation, Redis caching, better CLI tooling |
+| **AI Engineering** | Useful AI workflows, agent systems, multi-provider applications |
+| **System Design** | Microservices, queues, caching, scalability, clean boundaries |
+| **Cloud** | Docker, deployment workflows, Kubernetes fundamentals |
+| **Data** | PostgreSQL, MongoDB, Redis, vector databases |
 
 ---
 
@@ -245,7 +265,7 @@ A provider-independent AI assistant architecture designed for seamless context m
 <img
   src="https://github-readme-stats-fast.vercel.app/api?username=nishant809396-max&show_icons=true&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&icon_color=B33A2B"
   width="48%"
-  alt="Nishant's GitHub statistics"
+  alt="Nishant GitHub statistics"
 />
 
 <img
@@ -280,23 +300,23 @@ A provider-independent AI assistant architecture designed for seamless context m
 <tr>
 <td width="33%" align="center">
 
-### ♟️ Chess & Strategy
+### ♟️ Chess
 
-Pattern recognition, deliberate planning, patience, and tactical decision-making.
-
-</td>
-<td width="33%" align="center">
-
-### 📚 Tech & Architecture
-
-AI agents, scalable backend design, systems programming, and developer productivity tools.
+Strategy, pattern recognition, patience, and decision-making.
 
 </td>
 <td width="33%" align="center">
 
-### 🏔️ Mountains & Clarity
+### 📚 Technology
 
-Exploring Himachal Pradesh, finding clarity away from screens, and returning with fresh perspective.
+AI agents, system design, backend engineering, and developer tooling.
+
+</td>
+<td width="33%" align="center">
+
+### 🏔️ Mountains
+
+Exploring Himachal Pradesh and finding clarity away from screens.
 
 </td>
 </tr>
@@ -308,11 +328,11 @@ Exploring Himachal Pradesh, finding clarity away from screens, and returning wit
 
 <div align="center">
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:nishant@example.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-B33A2B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-284B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -326,6 +346,8 @@ Exploring Himachal Pradesh, finding clarity away from screens, and returning wit
 
 <br/><br/>
 
-<sub>Built from Panalth, Himachal Pradesh, India — one thoughtful system at a time.</sub>
+<img src="./editorial-footer.png" width="100%" alt="Build. Learn. Improve."/>
+
+<sub>Built from Panalath, Himachal Pradesh — one thoughtful system at a time.</sub>
 
 </div>
